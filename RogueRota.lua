@@ -28,7 +28,7 @@ else
 		[2] = "Earthstrike",
 		[3] = "Holy Strength",
 		[4] = "Adrenaline Rush",
-		[5] = "Sinister Strike",
+		[5] = "Backstab",
 		[6] = "Eviscerate"
 	}
 end
